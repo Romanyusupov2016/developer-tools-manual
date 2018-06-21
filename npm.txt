@@ -1,0 +1,14 @@
+package.json - файл манифест проекта.
+npm init -y - cоздание package.json.
+npm install - скачивание и установка зависимостей, прописанных в package.json.
+npm install --save - установка пакета для production.
+npm install --save-dev - установка пакета для development.
+sudo npm install -g - установка пакета глобально.
+npm install --ключ package@version - установка указанной версии пакета.
+npm update --ключ - обновление пакета.
+npm uninstall/remove --ключ - удаление пакета.
+npm cache clean - очистка кэша npm.
+npm list --depth=0 - список локально установленных пакетов.
+npm list -g --depth=0 - список глобально установленных пакетов.
+npm root -g - путь к глобально установленной node_modules.
+/usr/lib/node-modules - расположение глобально установленной node_modules.
