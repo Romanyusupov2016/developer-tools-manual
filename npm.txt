@@ -12,3 +12,4 @@ npm list --depth=0 - список локально установленных п
 npm list -g --depth=0 - список глобально установленных пакетов.
 npm root -g - путь к глобально установленной node_modules.
 /usr/lib/node-modules - расположение глобально установленной node_modules.
+npm view - информация о пакете.
