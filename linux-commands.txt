@@ -46,8 +46,12 @@ sudo apt purge package_name - полное удаление deb-пакета.
 
 apt-get:
 sudo apt-get update - обновить индекс подключённых репозиториев.
-sudo apt-get install app_name - установка приложения.
+sudo apt-get upgrade - обновить установленные deb-пакеты.
+sudo apt-get install - установка deb-пакета.
+sudo apt-get remove - удаление deb-пакета (без удаления конфигурационных файлов). 
+sudo apt-get remove --purge - полное удаление deb-пакета.
 sudo apt-add-repository ppa:reposytory_name - добавление PPA-репозитория.
+apt-get help - справочная информация по программе apt-get.
 
 top - просмотр запущенных процессов в интерактивном режиме.
 free -h - информация по ОЗУ и swap
@@ -95,6 +99,14 @@ ZIP архивы:
 
 zip -r archive.zip directory - создать zip архив.
 unzip archive.zip - распаковать zip архив.
+
+java:
+sudo apt-get update - получить новые списки пакетов.
+sudo apt-get upgrade - выполнить обновление установленных пакетов.
+sudo apt install default-jre - установка JRE.
+sudo apt install default-jdk - установка JDK.
+java -version
+javac -version - узнать версию установленной java.
 
 
 
