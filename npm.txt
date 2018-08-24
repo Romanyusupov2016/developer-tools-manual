@@ -11,5 +11,6 @@ npm cache clean - очистка кэша npm.
 npm list --depth=0 - список локально установленных пакетов.
 npm list -g --depth=0 - список глобально установленных пакетов.
 npm root -g - путь к глобально установленной node_modules.
-/usr/lib/node-modules - расположение глобально установленной node_modules.
+/usr/lib/node_modules - расположение глобально установленной node_modules.
+/usr/local/lib/node_modules - расположение глобально установленной node_modules (для Ubuntu).
 npm view - информация о пакете.
