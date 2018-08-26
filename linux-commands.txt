@@ -108,6 +108,16 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
+uname -a - информация о ядре Linux.
+lsb_release -a - информация о дистрибутиве Linux.
+
+Базовая разметка диска:
+1. sda1 ext4 / 30GB 
+2. sda5 swap   2GB
+3. sda6 ext4 /home ~GB
+
+
+
 
 
 
