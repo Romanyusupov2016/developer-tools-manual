@@ -144,6 +144,10 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
+php:
+php.ini - конфигурационный файл php.
+/etc/php/7.x/cli/php.ini - путь к php.ini.
+
 Базовая разметка диска:
 1. sda1 ext4 /     30GB 
 2. sda5 swap       2GB
