@@ -12,5 +12,8 @@ npm list --depth=0 - список локально установленных п
 npm list -g --depth=0 - список глобально установленных пакетов.
 npm root -g - путь к глобально установленной node_modules.
 /usr/lib/node_modules - расположение глобально установленной node_modules.
-/usr/local/lib/node_modules - расположение глобально установленной node_modules (для Ubuntu).
+/usr/local/lib/node_modules - расположение глобально установленной node_modules (Альтернативный вариант).
 npm view - информация о пакете.
+npm run - запуск скриптов, описанных в разделе "scripts" в package.json.
+npx - запуск исполняемых файлов npm-пакетов.
+node_modules/.bin - каталог который содержит ссылки на исполняемые файлы npm-пакетов.
