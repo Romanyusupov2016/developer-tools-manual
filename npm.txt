@@ -6,14 +6,17 @@ npm install --save-dev - установка пакета для development.
 sudo npm install -g - установка пакета глобально.
 npm install --ключ package@version - установка указанной версии пакета.
 npm update --ключ - обновление пакета.
+npm outdated - показать установленные пакеты, для которых есть новые версии (устаревшие пакеты).
 npm uninstall/remove --ключ - удаление пакета.
 npm cache clean - очистка кэша npm.
 npm list --depth=0 - список локально установленных пакетов.
 npm list -g --depth=0 - список глобально установленных пакетов.
+npm list пакет - узнать версию указанного пакета.
 npm root -g - путь к глобально установленной node_modules.
 /usr/lib/node_modules - расположение глобально установленной node_modules.
 /usr/local/lib/node_modules - расположение глобально установленной node_modules (Альтернативный вариант).
-npm view - информация о пакете.
+npm view пакет- информация о пакете.
+npm view пакет versions - список всех версий, указанного пакета.
 npm run - запуск скриптов, описанных в разделе "scripts" в package.json.
-npx - запуск исполняемых файлов npm-пакетов.
+npx command - запуск исполняемых файлов npm-пакетов.
 node_modules/.bin - каталог который содержит ссылки на исполняемые файлы npm-пакетов.
