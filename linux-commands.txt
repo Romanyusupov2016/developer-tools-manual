@@ -149,6 +149,8 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install php
 
+/etc/hosts - файл содержащий локальную базу DNS.
+
 Базовая разметка диска:
 1. sda1 ext4 /     30GB 
 2. sda5 swap       2GB
