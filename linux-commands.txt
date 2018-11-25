@@ -144,11 +144,6 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
-php:
-sudo apt-get update 
-sudo apt-get upgrade
-sudo apt-get install php
-
 /etc/hosts - файл содержащий локальную базу DNS.
 
 Базовая разметка диска:
