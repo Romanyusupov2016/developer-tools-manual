@@ -26,6 +26,7 @@ nvm ls - список установленных версий node.js.
 nvm current - выводит текущую(активную) версию node.js.
 nvm which node|version - путь к исполняемому файлу node.js.
 nvm uninstall version - удаление указанной версии node.js.
+nodemon - утилита для монитора изменений и перезапуска node сервера.
 
 /usr/lib/node_modules - расположение глобально установленной node_modules.
 /usr/local/lib/node_modules - расположение глобально установленной node_modules (Альтернативный вариант).
