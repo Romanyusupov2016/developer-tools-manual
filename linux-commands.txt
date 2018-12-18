@@ -163,6 +163,10 @@ android-studio:
 sudo unzip android-studio-ide-version-linux.zip -d /opt - распаковка содержимое архива в каталог /opt.
 /opt/android-studio/bin/studio.sh - запуск скрипта, устанавливающий android-studio.
 
+IntelliJ IDEA:
+sudo tar -xzf ideaIC-2018.3.2.tar.gz -C /opt - распаковка содержимое архива в каталог /opt.
+/opt/idea-IC-version/bin/idea.sh - запуск скрипта, устанавливающий IDEA.
+
 /etc/hosts - файл содержащий локальную базу DNS.
 
 Базовая разметка диска:
