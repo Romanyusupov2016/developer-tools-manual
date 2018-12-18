@@ -72,7 +72,6 @@ wget -i file - скачать фйлы по URL, которые записанн
 wget -p URL/index.html - скачивание сайта.
  
 sudo dpkg -i package_name.deb - установка deb-пакета. (без установки зависимостей).
-sudo apt-get -f install - установка зависимостей, установленного deb-пакета.
 
 APT(Advanced Packaging Tool):
 apt --help - инофрмация по APT.
@@ -87,6 +86,7 @@ sudo apt-get install - установка deb-пакета.
 sudo apt-get remove - удаление deb-пакета (без удаления конфигурационных файлов). 
 sudo apt-get remove --purge - полное удаление deb-пакета.
 sudo apt-add-repository ppa:reposytory_name - добавление PPA-репозитория.
+sudo apt-get -f install - установка зависимостей, установленного deb-пакета.
 apt-get help - справочная информация по программе apt-get.
 
 top - просмотр запущенных процессов в интерактивном режиме.
