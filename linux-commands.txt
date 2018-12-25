@@ -73,7 +73,7 @@ wget -i file - скачать фйлы по URL, которые записанн
 wget -p URL/index.html - скачивание сайта.
  
 sudo dpkg -i package_name.deb - установка deb-пакета. (без установки зависимостей).
-dpkg -l - список установленных пакетов в системе.
+dpkg -l - список установленных в системе deb-пакетов.
 
 APT(Advanced Packaging Tool):
 apt --help - инофрмация по APT.
