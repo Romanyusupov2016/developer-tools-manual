@@ -11,6 +11,10 @@ cat - вывести содержимое текстового файла.
 less - вывести содержимое большого текстового файла, с постраничной прокруткой.
 date - отобразить текущую дату и время.
 clear - очистка экрана.
+exit - закрыть терминал.
+man command - справка по комманде.
+ctrl + a - перейти в начало строки.
+ctrl + e - перейти в конец строки.
 
 touch - создание текстового файла.
 mkdir - создание каталога.
@@ -160,14 +164,6 @@ sudo apt install default-jre - установка JRE.
 sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
-
-android-studio:
-sudo unzip android-studio-ide-version-linux.zip -d /opt - распаковка содержимое архива в каталог /opt.
-/opt/android-studio/bin/studio.sh - запуск скрипта, устанавливающий android-studio.
-
-IntelliJ IDEA:
-sudo tar -xzf ideaIC-version.tar.gz -C /opt - распаковка содержимое архива в каталог /opt.
-/opt/idea-IC-version/bin/idea.sh - запуск скрипта, устанавливающий IDEA.
 
 /etc/hosts - файл содержащий локальную базу DNS.
 
