@@ -181,6 +181,17 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
+ssh:
+ssh server - port 22.
+ssh login@host - подключение к серверу SSH.
+shh login@host -p port_number - подключение к серверу SHH по указанному порту.
+ssh-keygen - генерация пары ключей:
+    /home/user/.ssh/id_rsa - приватный ключ.
+    /home/user/.ssh/id_rsa.pub - публичный ключ.
+/home/user/.ssh/authorized_keys - файл хранящий список авторизованных публичных ключей (находится на сервере).
+ssh-copy-id login@host - добавление содержимого публичного ключа в файл "authorized_keys" на сервере.
+
+
 /etc/hosts - файл содержащий локальную базу DNS.
 
 Базовая разметка диска:
