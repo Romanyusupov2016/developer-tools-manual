@@ -1,0 +1,8 @@
+java:
+sudo apt-get update - получить новые списки пакетов.
+sudo apt-get upgrade - выполнить обновление установленных пакетов.
+sudo apt install default-jre - установка JRE.
+sudo apt install default-jdk - установка JDK.
+java -version
+javac -version - узнать версию установленной java.
+

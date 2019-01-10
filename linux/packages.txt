@@ -1,0 +1,28 @@
+dpkg:
+sudo dpkg -i package_name.deb - установка deb-пакета. (без установки зависимостей).
+dpkg -l - список установленных в системе deb-пакетов.
+
+apt:
+apt --help - инофрмация по APT.
+sudo apt install package_name - установка deb-пакета.
+sudo apt remove package_name - удаление deb-пакета (без удаление конфигурационных файлов).
+sudo apt purge package_name - полное удаление deb-пакета.
+
+apt-get:
+sudo apt-get update - обновить индекс подключённых репозиториев.
+sudo apt-get upgrade - обновить установленные deb-пакеты.
+sudo apt-get install - установка deb-пакета.
+sudo apt-get remove - удаление deb-пакета (без удаления конфигурационных файлов). 
+sudo apt-get remove --purge - полное удаление deb-пакета.
+sudo apt-add-repository ppa:reposytory_name - добавление PPA-репозитория.
+sudo apt-get -f install - установка зависимостей, установленного deb-пакета.
+sudo apt-get install --only-upgrade deb-package - обновление отдельного deb-пакета.
+apt-get help - справочная информация по программе apt-get.
+
+snap:
+snap find - посик snap пакетов доступных для установки.
+snap list - список установленных snap пакетов.
+sudo snap install - установка snap пакета.
+sudo snap refresh - обновление snap пакетов.
+sudo snap remove - удаление snap пакета.
+
