@@ -2,7 +2,7 @@ dpkg:
 sudo dpkg -i package_name.deb - установка deb-пакета. (без установки зависимостей).
 dpkg -l - список установленных в системе deb-пакетов.
 dpkg --get-selections | wc -l - количество установленных в системе deb-пакетов.
-dpkg --get-selections | grep шаблон - поиск установленных паетов по шаблону.
+dpkg --get-selections | grep шаблон - поиск установленных deb-пакетов по шаблону.
 dpkg-query -l deb-пакет - версия deb-пакета.
 dpkg -L deb-пакет - список всех файлов deb-пакета.
 
