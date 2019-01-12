@@ -1,4 +1,5 @@
 ip addr show - информация о сетевых интерфейсах.
+curl ifconfig.me - узнать внешний ip - адресс машины.
 
 curl:
 curl URL - выплнить GET запрос.
