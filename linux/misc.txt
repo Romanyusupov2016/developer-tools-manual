@@ -6,5 +6,4 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
-php:
-sudo apt install php - установка php.
+
