@@ -1,0 +1,6 @@
+php -S localhost:8080 - запуск встроенного веб-сервера.
+
+/etc/php/7.n/cli/php.ini - файл конфигурации php.
+
+/etc/init.d/apache2 start - запуск Apache.
+/etc/init.d/apache2 stop - остановка Apache.
