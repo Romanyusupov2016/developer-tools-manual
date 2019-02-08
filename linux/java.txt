@@ -6,4 +6,10 @@ sudo apt install default-jdk - установка JDK.
 java -version
 javac -version - узнать версию установленной java.
 
+intellij-idea:
+tar -zxvf ideaIC-version.tar.gz - распаковка архива.
+idea-IC-version/bin/.idea.sh - запуск скрипта установки intellij-idea.
+
+
+
 
