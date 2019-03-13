@@ -1,0 +1,36 @@
+HTTP
+
+http server - tcp port 80.
+https server - tcp port 443.
+
+tls - криптографический протокол используемый в https.
+
+http request:
+GET URL HTTP/1.1 - request line.
+headers
+
+http response:
+HTTP/1.1 200 OK - status line.
+headers
+message body
+
+Параметры GET-запроса:
+/path/resource?param1=value1&param2=value2
+
+status code:
+1xx - Informational
+2xx - Success
+3xx - Redirection
+4xx - Client error
+5xx - Server error
+
+
+
+TCP/IP
+
+4. Application layer - HTTP
+3. Transport layer - TCP/UDP
+2. Internet layer - IP
+1. Link layer - Ethernet/Wi-Fi
+
+
