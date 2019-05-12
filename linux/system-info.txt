@@ -61,7 +61,7 @@ d - каталоги.
 
 Разметка диска с UEFI: 
 1. sda1 fat32 /boot/efi 512mb
-2. sda2 ext4  /         20gb
+2. sda2 ext4  /         30gb
 3. sda3 ext4  /home     ~
 
 efibootmgr - показать настройки UEFI.
