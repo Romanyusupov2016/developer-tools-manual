@@ -1,0 +1,6 @@
+Browser engines:
+
+WebKit (Blink) - Chrome, Opera
+Gecko - FireFox
+Webkit - Safari
+EdgeHTML - Edge 
