@@ -1,3 +1,6 @@
-sudo apt install php - установка php.
 
 php -S localhost:8000 - запуск встроенного веб-сервера.
+
+/var/www/html/ - каталог Apache.
+
+
