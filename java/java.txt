@@ -1,0 +1,10 @@
+OpenJDK
+sudo apt-get install default-jdk - установка OpenJDK.
+sudo apt-get install default-jdk-doc - установка пакета документации.
+
+java -version
+javac -version - узнать версию OpenJDK.
+
+Intellij IDEA
+tar -zxvf ideaIC-version.tar.gz - распаковка архива.
+idea-IC-version/bin/idea.sh - запуск скрипта установщика.
