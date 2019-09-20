@@ -35,7 +35,8 @@ git checkout branch_name - переключиться на ветку.
 git merge branch_name - слить указанную ветку в текущую ветку.
 git rebase branch_name - перебазирование указанной ветки на текущую ветку.
 
-git clone repository cloned_repository - клонирование репозитория под именем cloned_repository (Создание клона репозитория).
+git clone repository - клонирование репозитория.
+git clone repository cloned_repository - клонирование репозитория под именем cloned_repository.
 git clone --bare repository repository.git - создание чистого репозитория из указанного репозитория.
 git remote - список подключенных удалённых репозиториев.
 git remote show origin - информация об удалённом репозитории.
@@ -47,10 +48,12 @@ git push origin --delete remoteBranch - удаление удалёной вет
 
 git config --global user.name "Your Name"
 git config --global user.email "email@gmail.com" - установка имени и электронной почты.
+git config --global core.editor <editor> - установка текстового редактора.
 
 git config --list - показать все настройки конфигурации.
 git config <key> - показать значение указанного ключа в настройках конфигурации.
 git help command - справка по git комманде.
+git --version - версия git.
 
 /etc/gitconfig - системный файл конфигурации  --system.
 /home/user/.gitconfig - файл конфигурации пользователя --global.
