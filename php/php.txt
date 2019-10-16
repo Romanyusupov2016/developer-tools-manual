@@ -4,3 +4,6 @@ sudo apt install mysql-server - установка MySQL.
 sudo apt install php libapache2-mod-php php-mysql - установка PHP.
 
 php -S localhost:8000 - запуск встроенного сервера.
+
+/var/www/html - рабочий каталог Apache.
+/etc/php7.2/apache2/php.ini - файл конфигурации PHP.
