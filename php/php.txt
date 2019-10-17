@@ -1,4 +1,4 @@
-sudo apt-get update
+sudo apt update
 sudo apt install apache2 - установка Apache.
 sudo apt install mysql-server - установка MySQL.
 sudo apt install php libapache2-mod-php php-mysql - установка PHP.
@@ -11,3 +11,4 @@ php -S localhost:8000 - запуск встроенного сервера.
 sudo systemctl start apache2.service - запуск Apache.
 sudo systemctl stop apache2.service - остановка Apache.
 sudo systemctl restart apache2.service - перезапуск Apache.
+sudo systemctl disable apache2 - отключение Apache.
