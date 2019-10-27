@@ -19,6 +19,7 @@ npm view пакет version - последняя версия пакета, до
 npm run - запуск скриптов, описанных в разделе "scripts" в package.json.
 npx command - запуск исполняемых файлов npm-пакетов.
 npm help - справка по коммандам npm.
+
 nvm install node - установка последней версии node.js.
 nvm install --lts - установка последней LTS версии node.js.
 nvm use node - переключиться на последнюю версию установленной node.js.
@@ -27,6 +28,7 @@ nvm ls - список установленных версий node.js.
 nvm current - выводит текущую(активную) версию node.js.
 nvm which node|version - путь к исполняемому файлу node.js.
 nvm uninstall version - удаление указанной версии node.js.
+
 nodemon - утилита для монитора изменений и перезапуска node сервера.
 
 /usr/lib/node_modules - расположение глобально установленной node_modules.

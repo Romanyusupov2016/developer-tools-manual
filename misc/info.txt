@@ -4,3 +4,10 @@ WebKit (Blink) - Chrome, Opera
 Gecko - FireFox
 Webkit - Safari
 EdgeHTML - Edge 
+
+JS engines:
+
+V8 - Chrome, Node.js
+SpiderMonkey - FireFox
+JavascriptCore / Nitro - Safari
+Chakra - Edge
