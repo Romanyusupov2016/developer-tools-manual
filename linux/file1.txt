@@ -1,1 +1,0 @@
-sudo nmcli dev wifi - список доступных wi-fi сетей.
