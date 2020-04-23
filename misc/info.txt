@@ -1,9 +1,9 @@
 Browser engines:
 
-WebKit (Blink) - Chrome, Opera
+Blink - Chrome, Opera, Edge
 Gecko - FireFox
 Webkit - Safari
-EdgeHTML - Edge 
+
 
 JS engines:
 
