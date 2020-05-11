@@ -1,3 +1,5 @@
 https://www.taledo.com/blog/job-search/developer-job-germany-infographic - Germany IT job market.
 
 https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/ - Front-end developer interview questions.
+
+https://techrocks.ru/2019/10/22/5-best-books-for-javascript-learners/ - JS Books.
