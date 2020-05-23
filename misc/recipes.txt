@@ -25,3 +25,9 @@ html {
 *::after {
     box-sizing: inherit;
 }
+
+
+/* Font size */
+
+Зазмер шрифта задавать в em:
+font-size: 1em;
