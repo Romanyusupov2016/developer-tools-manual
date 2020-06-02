@@ -27,7 +27,6 @@ html {
 }
 
 
-/* Font size */
 
-Зазмер шрифта задавать в em:
-font-size: 1em;
+https://github.com/yoksel/common-words/ - common css class names.
+
