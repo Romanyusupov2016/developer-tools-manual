@@ -29,4 +29,5 @@ html {
 
 
 https://github.com/yoksel/common-words/ - common css class names.
+https://jgthms.com/minireset.css/ - CSS Reset.
 
