@@ -1,4 +1,0 @@
-tsc -v - версия typescript.
-tsc -h - справка по комилятору.
-tsc script.ts - компиляция.
-tsc --init - создание tsconfig.json.
