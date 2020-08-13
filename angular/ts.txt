@@ -1,0 +1,7 @@
+tsc -v - версия typescript.
+tsc -h - справка.
+tsc --init - создание tsconfig.js.
+tsc script.ts - компиляция.
+
+
+

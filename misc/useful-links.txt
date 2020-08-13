@@ -4,4 +4,4 @@ https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/ -
 
 https://techrocks.ru/2019/10/22/5-best-books-for-javascript-learners/ - JS Books.
 
-https://www.bitdegree.org/learning-path/backend-php-dev - PHP developer learning path.
+
