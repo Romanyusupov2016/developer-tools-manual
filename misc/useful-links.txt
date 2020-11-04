@@ -6,4 +6,6 @@ https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/ -
 
 https://techrocks.ru/2019/10/22/5-best-books-for-javascript-learners/ - JS Books.
 
+https://htmlacademy.ru/blog/education/all/javascript-books?utm_source=fb&utm_medium=social&utm_campaign=fb_blog1019_27102020 - JS Books.
+
 
