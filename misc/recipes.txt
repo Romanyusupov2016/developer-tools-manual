@@ -39,5 +39,6 @@ html {
 
 
 https://github.com/yoksel/common-words/ - common css class names.
+woff2 - основной формат веб шрифтов.
 
 
