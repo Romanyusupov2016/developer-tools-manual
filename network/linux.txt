@@ -1,0 +1,1 @@
+sudo nmcli d wifi - список доступный wi-fi сетей.
