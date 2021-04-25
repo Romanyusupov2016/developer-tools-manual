@@ -4,4 +4,6 @@ https://laptrinhx.com/the-5-most-in-demand-tech-jobs-in-europe-right-now-and-how
 
 https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/ - Front-end developer interview questions.
 
+https://habr.com/ru/post/262037/ - Books for system administrator.
+
 
