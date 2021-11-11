@@ -7,7 +7,7 @@ Webkit - Safari
 
 JS engines:
 
-V8 - Chrome, Node.js
+V8 - Chrome, Edge, Opera, Node.js
 SpiderMonkey - FireFox
 JavascriptCore / Nitro - Safari
-Chakra - Edge
+
