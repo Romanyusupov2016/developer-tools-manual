@@ -4,6 +4,10 @@ Blink - Chrome, Opera, Edge
 Gecko - FireFox
 Webkit - Safari
 
+Prefixes:
+-webkit- - Webkit, Blink
+-moz- - Gecko
+
 
 JS engines:
 
