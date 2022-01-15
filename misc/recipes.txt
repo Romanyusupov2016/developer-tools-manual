@@ -16,14 +16,10 @@
 
 /* Box-sizing reset */
 
-html {
-    box-sizing: border-box;
-}
-
 *,
-*::before,
-*::after {
-    box-sizing: inherit;
+::before,
+::after {
+    box-sizing: border-box;
 }
 
 
@@ -48,6 +44,10 @@ HTML - https://google.github.io/styleguide/htmlcssguide.html
 CSS - https://github.com/airbnb/css 
 SASS/SCSS - https://sass-guidelin.es/
 JavaScript - https://github.com/airbnb/javascript / https://airbnb.io/javascript/
+
+BEM
+
+Block__Element--Modifier
 
 
 
