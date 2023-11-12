@@ -49,5 +49,12 @@ BEM
 
 Block__Element--Modifier
 
+Sass cataloges:
+1. helpers/
+2. base/
+3. layout/
+4. components/
+
+
 
 
