@@ -1,0 +1,31 @@
+http server -  port 80.
+https server - port 443.
+
+tls - криптографический протокол используемый в https.
+
+http request:
+GET URL HTTP/1.1 - request line.
+headers
+
+http response:
+HTTP/1.1 200 OK - status line.
+headers
+message body
+
+Параметры GET-запроса:
+/path/resource?param1=value1&param2=value2
+
+status code:
+1xx - Informational
+2xx - Success
+3xx - Redirection
+4xx - Client error
+5xx - Server error
+
+
+wi-fi:
+
+BSSID - MAC адресс точки доступа.
+SSID - имя сети.
+wpa2 - протокол шифрования данных.
+
